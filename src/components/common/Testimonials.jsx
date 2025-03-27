@@ -1,6 +1,8 @@
 import React from "react";
 import { useKeenSlider } from "keen-slider/react";
 import profileImg1 from "../../assets/images/profileimg-1.jpg";
+import profileImg2 from "../../assets/images/profileimg-2.png";
+import profileImg3 from "../../assets/images/profileimg-3.png";
 import {
   IoArrowBackCircleOutline,
   IoArrowForwardCircleOutline,
@@ -11,8 +13,22 @@ const reviews = [
     id: 1,
     profileImg: profileImg1,
     name: "Jagdish Kumar",
-    role: "CEO of Improve Business Solutions Pvt ltd",
-    desc: "“Working with AI Company has been a game-changer for our business. Their team took the time to truly understand our brand and goals, and they delivered a website that not only looks stunning but also performs flawlessly. The entire process was seamless, and we were impressed with their attention to detail, creativity, and expertise in web development. Our new website has significantly improved our customer engagement and online presence. We couldn't be happier with the results!”",
+    role: "CEO of Improve Business Solutions Pvt Ltd",
+    desc: "“Working with NovaAIGen has been a transformative experience for our business. Their AI-powered solutions streamlined our operations and provided valuable insights. The dedication and innovation of their team exceeded our expectations. We now have a competitive edge, thanks to NovaAIGen's expertise.”",
+  },
+  {
+    id: 2,
+    profileImg: profileImg2,
+    name: "Rahul Verma",
+    role: "CTO of VisionTech Solutions",
+    desc: "“NovaAIGen’s NLP solutions have revolutionized how we analyze customer feedback and automate critical processes. Their advanced language models provided unparalleled insights into user sentiment, while their text automation tools streamlined our operations. The team’s expertise in customizing NLP pipelines for our specific needs ensured measurable improvements in efficiency and customer satisfaction. Any organization looking to harness the power of language data should partner with them.”",
+  },
+  {
+    id: 3,
+    profileImg: profileImg3,
+    name: "Ananya Sharma",
+    role: "Founder of Finovate Capital",
+    desc: "“The AI-driven insights provided by NovaAIGen have completely transformed our decision-making process. Their ability to understand our needs and deliver tailored solutions is truly commendable. Our business performance has improved significantly since we started working with them.”",
   },
 ];
 
@@ -83,10 +99,17 @@ const Testimonials = () => {
         <div className="gradient-rounded-text-box" data-aos="fade-up">
           Testimonials
         </div>
-        <h2 className="heading-2 text-white mb-2 text-center" data-aos="fade-up">
+        <h2
+          className="heading-2 text-white mb-2 text-center"
+          data-aos="fade-up"
+        >
           What Our Clients Say
         </h2>
-        <div ref={sliderRef} className="keen-slider max-w-3xl" data-aos="fade-up">
+        <div
+          ref={sliderRef}
+          className="keen-slider max-w-3xl"
+          data-aos="fade-up"
+        >
           {reviews.concat(reviews).map((item) => (
             <div
               key={item.id}
@@ -112,6 +135,7 @@ const Testimonials = () => {
 
         <div
           data-aos="fade-up"
+          data-aos-offset="800"
           className="flex justify-center items-center gap-10 mt-2"
         >
           <button

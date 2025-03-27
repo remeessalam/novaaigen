@@ -31,16 +31,18 @@ const Home = () => {
             className="relative z-10 px-6 justify-center h-full text-white flex flex-col items-center gap-5 text-center md:max-w-[60rem] mx-auto"
           >
             <div className="rounded-text-box border-white/70 font-medium">
-              IT Services
+              AI Solutions
             </div>
-            <h1 className="heading-1">Innovate. Transform. Thrive.</h1>
+            <h1 className="heading-1">
+              Empowering Innovation with Intelligent Solutions
+            </h1>
             <p className="desc">
-              Welcome to World's fastest-growing AI company! We deliver
-              cutting-edge digital solutions to help businesses innovate, grow,
-              and thrive in today’s competitive landscape.
+              Experience cutting-edge AI technology, crafted to accelerate your
+              business growth and achieve transformative results. Partner with
+              us for customized digital excellence.
             </p>
             <Link to="/contact-us" className="primary-btn mt-2">
-              Get a Free Consultation
+              Schedule a Consultation
             </Link>
           </div>
         </div>
@@ -52,7 +54,7 @@ const Home = () => {
       <WhyChooseUs />
       <UnlockEfficiency />
       <EndlessOpportunitiesSection />
-      <Featured />
+      {/* <Featured /> */}
       <Contact />
     </>
   );

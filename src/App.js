@@ -15,7 +15,6 @@ import { Toaster } from "react-hot-toast";
 import ScrollToTop from "./components/common/ScrollToTop";
 // import TawkMessengerReact from "@tawk.to/tawk-messenger-react";
 
-
 const LandingPage = lazy(() => import("./pages/landingPages/LandingPage"));
 const Thankyou = lazy(() => import("./pages/Thankyou"));
 
@@ -83,7 +82,7 @@ export default function App() {
               </>
             }
           />
-          <Route
+          {/* <Route
             path="/iot-development"
             element={
               <>
@@ -92,7 +91,7 @@ export default function App() {
                 <LandingFooter />
               </>
             }
-          />
+          /> */}
         </Routes>
       </Suspense>
     </SpinnerContextProvider>

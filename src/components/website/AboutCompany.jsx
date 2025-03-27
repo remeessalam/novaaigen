@@ -15,17 +15,15 @@ const AboutCompany = () => {
         <div data-aos="fade-right" className="flex h-full flex-col gap-7">
           <div className="flex flex-col gap-7 text-center lg:text-start">
             <h2 className="heading-2">
-              Transforming Ideas into Digital Success
+              Empowering Your Digital Transformation
             </h2>
             <p className="desc">
-              At AI Company, we are a leading technology company focused
-              on driving business innovation through digital transformation. As
-              one of the world’s fastest growing AI companies, we specialize in
-              delivering cutting-edge solutions tailored to meet the evolving
-              needs of businesses across industries. From web and app
-              development to AI, blockchain, and custom software solutions, we
-              are dedicated to helping companies harness the power of technology
-              to solve complex challenges and achieve sustainable growth.
+              At NovaAIGen, we are passionate about transforming businesses with
+              intelligent digital solutions. Our expertise in AI, and custom
+              software development ensures your organization stays ahead in
+              today’s competitive landscape. With a commitment to innovation and
+              collaboration, we deliver tailored technology solutions that drive
+              measurable results and long-term growth.
             </p>
           </div>
           <div className="flex gap-5 mt-4 justify-center lg:justify-start">
@@ -41,7 +39,7 @@ const AboutCompany = () => {
           <img
             src={aboutUsImg}
             className="object-contain max-h-[30rem]"
-            alt=""
+            alt="About NovaAIGen"
           />
         </div>
       </div>

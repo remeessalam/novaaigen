@@ -88,10 +88,11 @@ export {
 
 // company details
 export const companyDetails = {
-  phone: "+00000000000",
-  whatsapp: "+00000000000",
+  phone: "+91-9353070218",
+  whatsapp: "9353070218",
   email: "abc@xyz.com",
-  address: "ABC Street, City, Country",
+  address:
+    "Flat: 204 ,Blue lotus apartment, Kaverappa layout,Panathur , Bangalore, karnataka-560103",
   twitter: "",
   linkedin: "",
   instagram: "",
@@ -125,33 +126,33 @@ export const routes = [
 export const faqs = [
   {
     id: 1,
-    question: "What is Web Development?",
+    question: "What services does NovaAIGen offer?",
     answer:
-      "Web development refers to the process of creating websites and web applications. It includes tasks such as web design, web development, web programming, and database management.",
+      "NovaAIGen specializes in AI development, web and app development, custom software, and digital transformation consulting.",
   },
   {
     id: 2,
-    question: "What is Web Development?",
+    question: "How can AI benefit my business?",
     answer:
-      "Web development refers to the process of creating websites and web applications. It includes tasks such as web design, web development, web programming, and database management.",
+      "AI can help automate tasks, provide data-driven insights, enhance customer experiences, and optimize operations, leading to increased efficiency and profitability.",
   },
   {
     id: 3,
-    question: "What is Web Development?",
+    question: "What industries does NovaAIGen work with?",
     answer:
-      "Web development refers to the process of creating websites and web applications. It includes tasks such as web design, web development, web programming, and database management.",
+      "We serve a wide range of industries, including finance, healthcare, retail, logistics, and more, offering tailored digital solutions to meet sector-specific challenges.",
   },
   {
     id: 4,
-    question: "What is Web Development?",
+    question: "What makes NovaAIGen different from other tech companies?",
     answer:
-      "Web development refers to the process of creating websites and web applications. It includes tasks such as web design, web development, web programming, and database management.",
+      "Our collaborative approach, cutting-edge technology, and commitment to delivering measurable results set us apart. We tailor solutions to meet your unique business needs.",
   },
   {
     id: 5,
-    question: "What is Web Development?",
+    question: "How can I get started with NovaAIGen?",
     answer:
-      "Web development refers to the process of creating websites and web applications. It includes tasks such as web design, web development, web programming, and database management.",
+      "Contact us through our website to schedule a consultation. Our team will work with you to understand your goals and propose a customized solution.",
   },
 ];
 
@@ -301,189 +302,175 @@ export const iotServices = [
 export const allServices = [
   {
     id: 1,
-    title: "AI Development",
-    desc: "From predictive analytics to natural language processing, our AI solutions are designed to bring value to your organization.",
+    title: "Website Development: Building Websites That Make an Impact",
+    desc: "Your website is often the first interaction customers have with your brand. It's vital that it not only looks great but functions smoothly. At [Your Company Name], we focus on creating responsive, user-friendly websites that represent your brand and engage your audience.",
     detailContent:
-      "Artificial Intelligence (AI) is transforming industries by automating processes, making smarter decisions, and enhancing customer experiences. At AI Company, we help businesses leverage AI to boost productivity, drive innovation, and provide data-driven insights. From predictive analytics to natural language processing, our AI solutions are designed to bring value to your organization.",
+      "Your website is often the first interaction customers have with your brand. It's vital that it not only looks great but functions smoothly. At [Your Company Name], we focus on creating responsive, user-friendly websites that represent your brand and engage your audience.",
     whatWeOffer: [
       {
-        title: "AI Chatbots",
-        desc: "Enhance customer engagement with AI-driven chatbots that provide real-time support, answer queries, and assist in decision-making, all while learning from interactions to continuously improve.",
+        title: "Tailored Web Design & Development",
+        desc: "From corporate sites to e-commerce platforms, we build websites that are both functional and visually appealing.",
       },
       {
-        title: "AI Voice Bots",
-        desc: "Revolutionize your customer service with AI voice bots that can handle voice-based interactions, deliver personalized experiences, and efficiently manage customer queries and requests.",
+        title: "SEO Best Practices",
+        desc: "We optimize your website to improve its visibility and drive organic traffic, ensuring that your customers can easily find you online.",
       },
       {
-        title: "Machine Learning Models",
-        desc: "We create machine learning models that can predict trends, optimize processes, and provide real-time insights to improve decision-making.",
+        title: "Easy-to-Use CMS",
+        desc: "We provide you with an intuitive content management system, making it simple to update your website’s content whenever you need.",
       },
       {
-        title: "Natural Language Processing",
-        desc: "Build AI chatbots and assistants that understand and respond to user queries in a human-like manner, improving customer support and engagement.",
-      },
-      {
-        title: "AI-Powered Analytics",
-        desc: "Use AI to analyze data, recognize patterns, and create actionable insights that help your business stay ahead of the competition.",
-      },
-      {
-        title: "Automation Solutions",
-        desc: "Automate repetitive tasks and processes, saving time and reducing human error, leading to greater operational efficiency.",
+        title: "E-Commerce Solutions",
+        desc: "Launch an online store that is secure, easy to navigate, and optimized to convert visitors into customers.",
       },
     ],
   },
   {
     id: 2,
-    title: "Mobile App Development",
-    desc: "Our apps drive user engagement, improve operational efficiency, and align with your business objectives.",
+    title: "App Development: Turning Ideas Into Powerful Mobile Experiences",
+    desc: "In a mobile-driven world, having a reliable, engaging app can set your business apart. Our team at [Your Company Name] develops innovative, high-performing mobile applications that deliver a seamless user experience, whether you're targeting iOS or Android users.",
     detailContent:
-      "We understand that a mobile app is a powerful way to engage with your customers. Whether you're launching a new product, enhancing your services, or creating a business tool, our app development team crafts mobile apps that are robust, reliable, and user-friendly. Our apps drive user engagement, improve operational efficiency, and align with your business objectives.",
+      "In a mobile-driven world, having a reliable, engaging app can set your business apart. Our team at [Your Company Name] develops innovative, high-performing mobile applications that deliver a seamless user experience, whether you're targeting iOS or Android users.",
     whatWeOffer: [
       {
-        title: "Native App Development",
-        desc: "We specialize in creating native mobile apps for both iOS and Android, ensuring an optimal experience for each platform.",
+        title: "Native & Cross-Platform Apps",
+        desc: "We develop apps that function flawlessly across all major platforms, ensuring a great experience no matter the device.",
       },
       {
-        title: "Cross-Platform Apps",
-        desc: "Our cross-platform apps enable you to reach a larger audience with minimal development costs, making it easy to deploy on both iOS and Android.",
+        title: "Enterprise-Level Apps",
+        desc: "Tailor-made apps designed to optimize internal processes and enhance productivity within your business.",
       },
       {
-        title: "App Maintenance and Support",
-        desc: "After launch, we provide continuous support, updates, and improvements to keep your app running smoothly and ensure it stays relevant.",
+        title: "App Integration",
+        desc: "We integrate your app with existing business systems and third-party services to streamline operations.",
       },
       {
-        title: "App Monetization Strategies",
-        desc: "We can help design your app with revenue generating features like in-app purchases, subscriptions, or ads.",
+        title: "App Support & Updates",
+        desc: "We don’t just launch apps; we offer continuous support and regular updates to keep your app performing at its best.",
       },
     ],
   },
   {
     id: 3,
-    title: "Custom Software Development",
-    desc: "Every business is unique, and so are its needs. With our custom software development services, we build solutions that align perfectly with your business processes, challenges, and goals.",
+    title:
+      "AI Solutions: Unlocking New Possibilities with Artificial Intelligence",
+    desc: "Artificial Intelligence is transforming industries worldwide, and [Your Company Name] is at the forefront of this change. We specialize in developing AI-powered solutions that enhance decision-making, improve efficiencies, and open up new business opportunities.",
     detailContent:
-      "Every business is unique, and so are its needs. With our custom software development services, we build solutions that align perfectly with your business processes, challenges, and goals. Whether you need an enterprise resource planning (ERP) system, customer relationship management (CRM) software, or any other bespoke software, we have you covered.",
+      "Artificial Intelligence is transforming industries worldwide, and [Your Company Name] is at the forefront of this change. We specialize in developing AI-powered solutions that enhance decision-making, improve efficiencies, and open up new business opportunities.",
     whatWeOffer: [
       {
-        title: "ERP & CRM Solutions",
-        desc: "We design and develop custom ERP and CRM systems that streamline operations, improve customer relationships, and drive growth.",
+        title: "AI System Integration",
+        desc: "Bring AI capabilities into your existing infrastructure with smart automation and data-driven decision-making tools.",
       },
       {
-        title: "Business Automation",
-        desc: "Automate your core business processes with custom software, reducing time and costs while improving accuracy",
+        title: "Machine Learning",
+        desc: "We build custom machine learning models that continuously improve over time, offering more accurate predictions and valuable insights.",
       },
       {
-        title: "Cloud Integration",
-        desc: "We integrate custom software with cloud services for enhanced scalability, security, and flexibility",
-      },
-      {
-        title: "Scalable Solutions",
-        desc: "As your business grows, our software solutions will evolve with it, adapting to new challenges and expanding capabilities.",
+        title: "AI Consulting",
+        desc: "Not sure where to start with AI? Our experts can guide you through the process of identifying the right AI strategy for your business.",
       },
     ],
   },
   {
     id: 4,
-    title: "Web Development",
-    desc: "Our web development services are tailored to fit your specific business requirements, ensuring that your site is designed for growth, performance, and user engagement.",
+    title: "Chatbots: Revolutionizing Customer Interaction",
+    desc: "Engage with your customers 24/7 using intelligent chatbots that provide quick, personalized responses. At [Your Company Name], we design chatbots that handle everything from simple queries to complex tasks, helping businesses improve customer satisfaction and streamline operations.",
     detailContent:
-      "Your website is the digital face of your business. At AI Company, we specialize in building visually striking, responsive, and functional websites that not only capture attention but also drive conversions. Our web development services are tailored to fit your specific business requirements, ensuring that your site is designed for growth, performance, and user engagement.",
+      "Engage with your customers 24/7 using intelligent chatbots that provide quick, personalized responses. At [Your Company Name], we design chatbots that handle everything from simple queries to complex tasks, helping businesses improve customer satisfaction and streamline operations.",
     whatWeOffer: [
       {
-        title: "Responsive Web Design",
-        desc: "We create mobile-optimized websites that look great on any device, ensuring a seamless user experience.",
+        title: "Around-the-Clock Support",
+        desc: "Your chatbot can respond to customer inquiries at any time, ensuring that no question goes unanswered.",
       },
       {
-        title: "E-commerce Development",
-        desc: "Build and scale your online store with custom features that enhance the shopping experience for your customers.",
+        title: "Lead Generation",
+        desc: "Chatbots can gather information and qualify leads before passing them on to your sales team, enhancing your lead generation process.",
       },
       {
-        title: "SEO & Performance Optimization",
-        desc: "Your website will be built with best practices for SEO, helping you rank higher in search engines, while ensuring speed and functionality.",
+        title: "Custom Solutions",
+        desc: "We design chatbots that match your brand's tone and voice, ensuring a consistent user experience.",
       },
       {
-        title: "Content Management Systems",
-        desc: "Manage your website content easily with platforms like WordPress or custom CMS solutions.",
+        title: "Multilingual Capabilities",
+        desc: "Reach a wider audience with chatbots that can converse in multiple languages, providing seamless support across borders.",
       },
     ],
   },
-
   {
     id: 5,
-    title: "UI/UX",
-    desc: "We help businesses improve usability and enhance customer satisfaction through superior design.",
+    title: "AI Calling: Smarter, More Efficient Communication",
+    desc: "AI-powered calling systems are revolutionizing the way businesses handle customer service. Our AI calling solutions can manage customer inquiries, make outbound calls, and streamline processes, all with minimal human involvement.",
     detailContent:
-      "User experience (UX) and user interface (UI) design are crucial for the success of any digital product. At AI Company, we create intuitive, engaging, and aesthetically pleasing interfaces that make user interactions smooth and enjoyable. We help businesses improve usability and enhance customer satisfaction through superior design.",
+      "AI-powered calling systems are revolutionizing the way businesses handle customer service. Our AI calling solutions can manage customer inquiries, make outbound calls, and streamline processes, all with minimal human involvement.",
     whatWeOffer: [
       {
-        title: "User Research & Analysis",
-        desc: "We conduct in-depth research to understand user needs, behaviors, and pain points, ensuring that our designs meet the target audience's expectations.",
+        title: "Automated Customer Service",
+        desc: "AI calling systems can handle routine calls, freeing up your team to focus on more complex issues.",
       },
       {
-        title: "Wireframing & Prototyping",
-        desc: "We create wireframes and interactive prototypes to visualize and test design concepts before implementation.",
+        title: "Lead Qualification",
+        desc: "AI can engage leads, qualify them, and schedule follow-up calls, helping to streamline your sales process.",
       },
       {
-        title: "Responsive Design",
-        desc: "We ensure that the design is optimized for all devices, providing a seamless experience for users across desktops, tablets, and smartphones.",
+        title: "Personalized Interaction",
+        desc: "AI-powered calls can be customized to deliver a personal touch, creating an experience that feels tailored to each customer.",
       },
       {
-        title: "Usability Testing",
-        desc: "We perform thorough testing to ensure that users can easily navigate and interact with the product, leading to higher engagement and satisfaction.",
+        title: "CRM Integration",
+        desc: "Our AI calling solutions integrate seamlessly with your CRM, ensuring all customer interactions are tracked and followed up on efficiently.",
       },
     ],
   },
   {
     id: 6,
-    title: "Internet of Things (IoT) Development",
-    desc: "IoT is transforming industries by creating smart, connected ecosystems. We develop IoT solutions that allow businesses to gather real-time data, automate tasks, and make data-driven decisions.",
+    title:
+      "Natural Language Processing (NLP): Understanding and Analyzing Language",
+    desc: "At [Your Company Name], we use Natural Language Processing (NLP) to help businesses harness the power of language. NLP helps automate processes, improve customer engagement, and gain valuable insights from unstructured text data.",
     detailContent:
-      "IoT is transforming industries by creating smart, connected ecosystems. We develop IoT solutions that allow businesses to gather real-time data, automate tasks, and make data-driven decisions. Whether it’s smart homes, industrial IoT, or healthcare, our IoT services empower businesses to harness the power of connected devices.",
+      "At [Your Company Name], we use Natural Language Processing (NLP) to help businesses harness the power of language. NLP helps automate processes, improve customer engagement, and gain valuable insights from unstructured text data.",
     whatWeOffer: [
       {
-        title: "Smart Device Integration",
-        desc: "We connect sensors, devices, and machines to create intelligent systems that improve efficiency and decision-making.",
+        title: "Sentiment Analysis",
+        desc: "Analyze customer feedback, reviews, and social media content to gauge public sentiment and improve your offerings.",
       },
       {
-        title: "Real-Time Data Analytics",
-        desc: "Capture and analyze data from connected devices in real-time, providing actionable insights for your business.",
+        title: "Text Classification",
+        desc: "Automatically sort and categorize large volumes of text data to streamline operations and improve information management.",
       },
       {
-        title: "Automation",
-        desc: "Implement IoT solutions that automate tasks, reduce operational costs, and improve productivity.",
+        title: "Voice-Activated Solutions",
+        desc: "Combine NLP with voice recognition for smart assistants, virtual agents, and voice-activated customer support.",
       },
       {
-        title: "Secure IoT Solutions",
-        desc: "We ensure that your IoT systems are secure, protecting your data and devices from potential threats.",
+        title: "Multilingual Translation",
+        desc: "Break down language barriers and provide seamless communication with automated translation services powered by NLP.",
       },
     ],
   },
   {
     id: 7,
-    title: "Blockchain Development",
-    desc: "From decentralized apps (dApps) to smart contracts, we help you leverage blockchain technology for secure, scalable, and efficient solutions.",
+    title:
+      "UX/UI Design: Creating User-Friendly, Visually Stunning Experiences",
+    desc: "Great user experience (UX) and user interface (UI) design are essential for engaging your audience and keeping them coming back. At [Your Company Name], we design user interfaces that are not only beautiful but also intuitive and easy to navigate.",
     detailContent:
-      "Blockchain is revolutionizing industries with its unmatched security, transparency, and efficiency. At AI Company, we offer comprehensive blockchain services to help businesses innovate and streamline operations. From decentralized apps (dApps) to smart contracts, we help you leverage blockchain technology for secure, scalable, and efficient solutions.",
+      "Great user experience (UX) and user interface (UI) design are essential for engaging your audience and keeping them coming back. At [Your Company Name], we design user interfaces that are not only beautiful but also intuitive and easy to navigate.",
     whatWeOffer: [
       {
-        title: "Smart Contract Development",
-        desc: "Automate and secure agreements with self executing contracts on the blockchain, ensuring transparency and reducing errors.",
+        title: "User-Centered Design",
+        desc: "We put your users’ needs and behaviors at the forefront, ensuring your website or app is easy to use and navigate.",
       },
       {
-        title: "Blockchain Consulting",
-        desc: "Our experts guide you through the process of adopting blockchain, identifying the best solutions for your business.",
+        title: "Prototyping & Wireframing",
+        desc: "Visualize the user journey with wireframes and prototypes that allow us to test and refine designs before development.",
       },
       {
-        title: "Tokenization",
-        desc: "Convert physical or digital assets into blockchain-based tokens, allowing secure, fractional ownership.",
+        title: "Responsive Design",
+        desc: "Whether on desktop or mobile, our designs are fully responsive, offering a seamless experience across all devices.",
       },
       {
-        title: "Blockchain Integration",
-        desc: "Seamlessly integrate blockchain into your existing systems, improving security, data integrity, and transaction efficiency.",
-      },
-      {
-        title: "Blockchain Security",
-        desc: "We ensure that your blockchain solutions are secure, tamper-proof, and resilient to cyber threats.",
+        title: "Interactive Features",
+        desc: "Engage users with interactive elements, micro-interactions, and animations that make your site or app fun to use.",
       },
     ],
   },
@@ -550,17 +537,16 @@ export const appPortfolio = [
 // featured
 export const featuredContent = [
   {
-    img: '',
+    img: "",
     website: "INC91",
-    headline:
-      "AI Company : Revolutionizing IT and AI Developments",
+    headline: "NovaAIGen : Revolutionizing IT and AI Developments",
     link: "",
   },
   {
     img: "",
     website: "Hindustan Bytes",
     headline:
-      "AI Company : Transforming the IT Landscape with Cutting Edge AI Solutions",
+      "NovaAIGen : Transforming the IT Landscape with Cutting Edge AI Solutions",
     link: "",
   },
 ];
@@ -569,14 +555,12 @@ export const featuredContent = [
 export const ceoInterviews = [
   {
     source: "Interview",
-    headline:
-      "An insightful conversation with our CEO",
+    headline: "An insightful conversation with our CEO",
     videoId: "b-L_V-z-FDs",
   },
   {
     source: "Interview",
-    headline:
-      "Our CEO shares key insights on business growth",
+    headline: "Our CEO shares key insights on business growth",
     videoId: "K7pZ0nibsUg",
   },
 ];

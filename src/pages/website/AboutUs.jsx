@@ -12,6 +12,8 @@ import WhyChooseUs from "../../components/common/WhyChooseUs";
 import { ReactComponent as Icon1 } from "../../assets/svgs/AI Expertise.svg";
 import { ReactComponent as Icon2 } from "../../assets/svgs/Blockchain Solutions.svg";
 import { ReactComponent as Icon3 } from "../../assets/svgs/Scalability.svg";
+import { FaCode, FaRobot, FaBrain } from "react-icons/fa";
+
 import Featured from "../../components/common/Featured";
 
 const AboutUs = () => {
@@ -99,19 +101,19 @@ const AboutUs = () => {
             <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-5">
               {[
                 {
-                  Icon: Icon1,
-                  title: "AI Expertise",
-                  desc: "As a leader in AI development, we help businesses integrate AI solutions to streamline operations, enhance customer experience, and gain actionable insights.",
+                  Icon: FaCode,
+                  title: "Website Development",
+                  desc: "We build custom, responsive websites with modern tech stacks to establish your digital presence and drive business growth.",
                 },
                 {
-                  Icon: Icon2,
-                  title: "Blockchain Solutions",
-                  desc: "We specialize in creating decentralized, secure, and transparent solutions that enable businesses to innovate and grow.",
+                  Icon: FaRobot,
+                  title: "Chat Bots",
+                  desc: "AI-powered chatbots that provide 24/7 customer support, automate queries, and enhance user engagement across platforms.",
                 },
                 {
-                  Icon: Icon3,
-                  title: "Scalability",
-                  desc: "Whether you are a startup or an established enterprise, we design solutions that can scale with your business, ensuring long-term success.",
+                  Icon: FaBrain,
+                  title: "NLP Solutions",
+                  desc: "Advanced Natural Language Processing services including sentiment analysis, text classification, and language generation.",
                 },
               ].map(({ Icon, title, desc }) => (
                 <div className="flex flex-col-reverse sm:grid text-start shadow-2xl shadow-primary/40 rounded-xl grid-cols-1 gap-5 max-w-5xl mx-auto">
@@ -123,7 +125,7 @@ const AboutUs = () => {
                       data-aos="fade-left"
                       className="max-h-[5rem] mx-auto aspect-square rounded-full p-3 bg-primary flex items-center"
                     >
-                      <Icon className="h-full fill-black max-h-[3rem] my-auto object-contain mx-auto" />
+                      <Icon className="h-full fill-black max-h-[3rem] h-10 w-10 my-auto object-contain mx-auto" />
                     </div>
                     <h6 className="mt-5 font-bold text-2xl font-raleway">
                       {title}
@@ -136,7 +138,7 @@ const AboutUs = () => {
           </div>
         </div>
       </div>
-      <Featured />
+      {/* <Featured /> */}
       <OurServices length={3} />
       <Testimonials />
     </>

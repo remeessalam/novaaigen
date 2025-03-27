@@ -66,11 +66,12 @@ const WhyChooseUs = () => {
         </div>
         <div className="flex flex-col gap-5">
           <h2 data-aos="fade-up" className="heading-2">
-            Magic Behind Our IT Solutions
+            Excellence in AI Solutions
           </h2>
           <p data-aos="fade-up" className="desc max-w-[40rem] mx-auto">
-            We begin by conducting a comprehensive needs assessment to
-            understand your specific requirements, challenges, and goals.
+            At NovaAIGen, we combine innovation, expertise, and dedication to
+            deliver transformative solutions that empower businesses to excel in
+            a digital-first world.
           </p>
           <div data-aos="fade-up" className="w-full block lg:hidden">
             <img
@@ -86,7 +87,7 @@ const WhyChooseUs = () => {
                 className="p-5 border border-primary rounded-xl w-full h-full"
               >
                 <div className="flex w-full text-start items-center justify-between gap-3">
-                  <h5 className="text-xl">Expertise & Innovation</h5>
+                  <h5 className="text-xl">Innovative Solutions</h5>
                   <img
                     src={whyChooseUsIcon1}
                     className="h-[3rem] object-contain mb-3"
@@ -94,9 +95,9 @@ const WhyChooseUs = () => {
                   />
                 </div>
                 <p className="desc text-white/80 text-start mt-3">
-                  With a team of passionate and experienced professionals, we
-                  bring deep technical knowledge and creative problem-solving
-                  skills to every project.
+                  Our state-of-the-art AI solutions are designed to solve
+                  complex business challenges, driving operational efficiency
+                  and growth.
                 </p>
               </div>
               <div
@@ -104,7 +105,7 @@ const WhyChooseUs = () => {
                 className="p-5 border border-primary rounded-xl w-full h-full"
               >
                 <div className="flex w-full text-start items-center justify-between gap-3">
-                  <h5 className="text-xl">Customized Solutions</h5>
+                  <h5 className="text-xl">Tailored Approach</h5>
                   <img
                     src={whyChooseUsIcon2}
                     className="h-[3rem] object-contain mb-3"
@@ -112,8 +113,9 @@ const WhyChooseUs = () => {
                   />
                 </div>
                 <p className="desc text-white/80 text-start mt-3">
-                  We understand that every business is unique, so we tailor our
-                  solutions to fit the specific needs and goals of our clients.
+                  We understand that every business is unique. Our personalized
+                  solutions are aligned with your goals to ensure maximum
+                  impact.
                 </p>
               </div>
             </div>
@@ -130,7 +132,7 @@ const WhyChooseUs = () => {
                 className="p-5 border border-primary rounded-xl w-full h-full"
               >
                 <div className="flex w-full text-start items-center justify-between gap-3">
-                  <h5 className="text-xl">End-to-End Services</h5>
+                  <h5 className="text-xl">Comprehensive Support</h5>
                   <img
                     src={whyChooseUsIcon3}
                     className="h-[3rem] object-contain mb-3"
@@ -138,9 +140,9 @@ const WhyChooseUs = () => {
                   />
                 </div>
                 <p className="desc text-white/80 text-start mt-3">
-                  From ideation to implementation, we offer end-to-end services
-                  across various industries, ensuring a seamless experience for
-                  our clients.
+                  From initial consultation to ongoing maintenance, our
+                  end-to-end support ensures a seamless digital transformation
+                  journey.
                 </p>
               </div>
               <div
@@ -148,7 +150,7 @@ const WhyChooseUs = () => {
                 className="p-5 border border-primary rounded-xl w-full h-full"
               >
                 <div className="flex w-full text-start items-center justify-between gap-3">
-                  <h5 className="text-xl">Global Reach</h5>
+                  <h5 className="text-xl">Proven Track Record</h5>
                   <img
                     src={whyChooseUsIcon4}
                     className="h-[3rem] object-contain mb-3"
@@ -156,47 +158,10 @@ const WhyChooseUs = () => {
                   />
                 </div>
                 <p className="desc text-white/80 text-start mt-3">
-                  As a global player, we have the expertise to handle projects
-                  of all sizes, from small startups to large enterprises,
-                  delivering exceptional results every time.
+                  With successful partnerships across various industries, we
+                  have consistently delivered results that matter.
                 </p>
               </div>
-            </div>
-          </div>
-        </div>
-        <div className="pt-[3rem]">
-          <div
-            ref={ref}
-            data-aos="fade-up"
-            className="w-full grid sm:grid-cols-2 lg:grid-cols-4 gap-6 sm:gap-10 lg:gap-5 rounded-3xl bg-gradient-to-r from-secondary to-primary p-[2rem]"
-          >
-            <div className="w-full flex flex-col items-center justify-center">
-              <div className="flex flex-col gap-3 relative w-fit">
-                <h1 className="heading-1">{yrs}</h1>
-                <span className="absolute top-1 -right-3 text-lg">+</span>
-              </div>
-              <p className="font-medium mt-3">Years of Experience</p>
-            </div>
-            <div className="w-full flex flex-col items-center justify-center">
-              <div className="flex flex-col gap-3 relative w-fit">
-                <h1 className="heading-1">{experts}</h1>
-                <span className="absolute top-1 -right-3 text-lg">+</span>
-              </div>
-              <p className="font-medium mt-3">Expert Team</p>
-            </div>
-            <div className="w-full flex flex-col items-center justify-center">
-              <div className="flex flex-col gap-3 relative w-fit">
-                <h1 className="heading-1">{clients}</h1>
-                <span className="absolute top-1 -right-3 text-lg">+</span>
-              </div>
-              <p className="font-medium mt-3">Clients</p>
-            </div>
-            <div className="w-full flex flex-col items-center justify-center">
-              <div className="flex flex-col gap-3 relative w-fit">
-                <h1 className="heading-1">{onTimeCompletion}</h1>
-                <span className="absolute top-1 -right-3 text-lg">%</span>
-              </div>
-              <p className="font-medium mt-3">On Time Completion</p>
             </div>
           </div>
         </div>

@@ -6,7 +6,7 @@ import { BsFacebook, BsLinkedin, BsTwitter, BsYoutube } from "react-icons/bs";
 const Thankyou = () => {
   return (
     <div className="min-h-screen flex flex-col justify-between bg-primary/20">
-      <div className="py-4 top-0 w-full bg-black/20 backdrop-blur-md z-50 text-white">
+      <div className="py-4 top-0 w-full bg-black/90 backdrop-blur-md z-50 text-white">
         <div className="wrapper flex justify-between items-center gap-10">
           <div className="flex justify-between items-center gap-20 w-full pl-[1rem] lg:pl-0">
             <Link to="/">

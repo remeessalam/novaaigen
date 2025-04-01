@@ -94,9 +94,11 @@ export const companyDetails = {
   address:
     "Flat 404, 7 HLR residency, 4th Main, Begur road Hongasandra. Bangalore - 560068",
   twitter: "",
-  linkedin: "",
-  instagram: "",
-  facebook: "",
+  linkedin:
+    "https://www.linkedin.com/in/anitha-s-024867353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+  instagram:
+    "https://www.instagram.com/neotranscendai?igsh=MWxyZWFkd3Z2bGg0cA==",
+  facebook: "https://www.facebook.com/share/15365a2xnU/",
 };
 
 // website routes

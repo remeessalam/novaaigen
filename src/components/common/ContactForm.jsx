@@ -39,7 +39,7 @@ const ContactForm = () => {
     // Construct the request payload
     var payload = {
       to: companyDetails.email,
-      subject: "New Contact Form Submission - NovaAIGen",
+      subject: "New Contact Form Submission - NeoTranscendAI",
       body: emailBody,
     };
 
@@ -75,7 +75,7 @@ const ContactForm = () => {
         <h2 className="heading-2 mt-5">Get in Touch</h2>
         <p className="desc">
           Ready to take your business to the next level with innovative
-          technology? Contact us today to learn how NovaAIGen can help you
+          technology? Contact us today to learn how NeoTranscendAI can help you
           achieve your digital transformation goals.
         </p>
         <Link

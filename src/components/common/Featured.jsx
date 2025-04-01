@@ -13,7 +13,7 @@ const Featured = () => {
               <p className="desc">
                 We are proud to be recognized by some of the top media outlets
                 for our innovation in IT and AI developments. Here are some of
-                the media platforms that have featured NovaAIGen Solutions:
+                the media platforms that have featured NeoTranscendAI Solutions:
               </p>
             </div>
           </div>

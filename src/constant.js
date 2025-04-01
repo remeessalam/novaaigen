@@ -126,9 +126,9 @@ export const routes = [
 export const faqs = [
   {
     id: 1,
-    question: "What services does NovaAIGen offer?",
+    question: "What services does NeoTranscendAI offer?",
     answer:
-      "NovaAIGen specializes in AI development, web and app development, custom software, and digital transformation consulting.",
+      "NeoTranscendAI specializes in AI development, web and app development, custom software, and digital transformation consulting.",
   },
   {
     id: 2,
@@ -138,19 +138,19 @@ export const faqs = [
   },
   {
     id: 3,
-    question: "What industries does NovaAIGen work with?",
+    question: "What industries does NeoTranscendAI work with?",
     answer:
       "We serve a wide range of industries, including finance, healthcare, retail, logistics, and more, offering tailored digital solutions to meet sector-specific challenges.",
   },
   {
     id: 4,
-    question: "What makes NovaAIGen different from other tech companies?",
+    question: "What makes NeoTranscendAI different from other tech companies?",
     answer:
       "Our collaborative approach, cutting-edge technology, and commitment to delivering measurable results set us apart. We tailor solutions to meet your unique business needs.",
   },
   {
     id: 5,
-    question: "How can I get started with NovaAIGen?",
+    question: "How can I get started with NeoTranscendAI?",
     answer:
       "Contact us through our website to schedule a consultation. Our team will work with you to understand your goals and propose a customized solution.",
   },
@@ -539,14 +539,14 @@ export const featuredContent = [
   {
     img: "",
     website: "INC91",
-    headline: "NovaAIGen : Revolutionizing IT and AI Developments",
+    headline: "NeoTranscendAI : Revolutionizing IT and AI Developments",
     link: "",
   },
   {
     img: "",
     website: "Hindustan Bytes",
     headline:
-      "NovaAIGen : Transforming the IT Landscape with Cutting Edge AI Solutions",
+      "NeoTranscendAI : Transforming the IT Landscape with Cutting Edge AI Solutions",
     link: "",
   },
 ];

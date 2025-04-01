@@ -44,7 +44,7 @@ const LandingPage = ({ page }) => {
     aboutImg = webLandingAbout;
     aboutTitle = "Innovative Web Development Solutions for Modern Brands";
     aboutDesc =
-      "Your website is the digital face of your business. At NovaAIGen, we specialize in building visually striking, responsive, and functional websites that not only capture attention but also drive conversions. Our web development services are tailored to fit your specific business requirements, ensuring that your site is designed for growth, performance, and user engagement";
+      "Your website is the digital face of your business. At NeoTranscendAI, we specialize in building visually striking, responsive, and functional websites that not only capture attention but also drive conversions. Our web development services are tailored to fit your specific business requirements, ensuring that your site is designed for growth, performance, and user engagement";
   } else if (page === "app") {
     bannerImg = appDevBanner;
     bannerTitle = "Building High-Impact Mobile Apps";
@@ -62,7 +62,7 @@ const LandingPage = ({ page }) => {
     aboutTitle =
       "Unlocking the Power of AI: Revolutionizing Business with Our AI Services.";
     aboutDesc =
-      "Unlock the power of Artificial Intelligence to revolutionize your operations, elevate customer experiences, and drive growth. At NovaAIGen, we deliver state-of-the-art AI solutions tailored to your business needs.";
+      "Unlock the power of Artificial Intelligence to revolutionize your operations, elevate customer experiences, and drive growth. At NeoTranscendAI, we deliver state-of-the-art AI solutions tailored to your business needs.";
   } else {
     bannerImg = iotDevBanner;
     bannerTitle = "Innovative IoT Solutions to Transform Your Business";
@@ -70,7 +70,7 @@ const LandingPage = ({ page }) => {
     aboutImg = iotLandingAbout;
     aboutTitle = "Transforming Industries with IoT Solutions";
     aboutDesc =
-      "Step into the future with Internet of Things (IoT) solutions designed to connect your devices, streamline operations, and deliver actionable insights. At NovaAIGen, we turn ideas into intelligent systems that redefine how businesses operate.";
+      "Step into the future with Internet of Things (IoT) solutions designed to connect your devices, streamline operations, and deliver actionable insights. At NeoTranscendAI, we turn ideas into intelligent systems that redefine how businesses operate.";
   }
 
   useEffect(() => {
@@ -191,10 +191,10 @@ const LandingPage = ({ page }) => {
             Design & Revolution
           </h1>
           <p data-aos="fade-up" className="desc max-w-[50rem] mx-auto">
-            At NovaAIGen LLP, we understand that in today’s digital-first world,
-            your website is more than just an online presence—it’s the heart of
-            your brand’s identity, a vital business tool, and often the first
-            touchpoint for potential customers. In an era where first
+            At NeoTranscendAI LLP, we understand that in today’s digital-first
+            world, your website is more than just an online presence—it’s the
+            heart of your brand’s identity, a vital business tool, and often the
+            first touchpoint for potential customers. In an era where first
             impressions matter more than ever, having a well-designed, fast, and
             responsive website is crucial to your business success. That’s why
             our website development services go beyond the basics—we aim to

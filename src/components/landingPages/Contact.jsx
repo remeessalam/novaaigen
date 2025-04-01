@@ -74,7 +74,7 @@ const Contact = () => {
             <p className="desc">
               Ready to take your business to the next level with innovative
               technology? Contact us today to learn how{" "}
-              <span className="font-semibold">NovaAIGen</span> can help you
+              <span className="font-semibold">NeoTranscendAI</span> can help you
               achieve your digital transformation goals.
             </p>
           </div>

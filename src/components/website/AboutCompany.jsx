@@ -18,12 +18,12 @@ const AboutCompany = () => {
               Empowering Your Digital Transformation
             </h2>
             <p className="desc">
-              At NovaAIGen, we are passionate about transforming businesses with
-              intelligent digital solutions. Our expertise in AI, and custom
-              software development ensures your organization stays ahead in
-              today’s competitive landscape. With a commitment to innovation and
-              collaboration, we deliver tailored technology solutions that drive
-              measurable results and long-term growth.
+              At NeoTranscendAI, we are passionate about transforming businesses
+              with intelligent digital solutions. Our expertise in AI, and
+              custom software development ensures your organization stays ahead
+              in today’s competitive landscape. With a commitment to innovation
+              and collaboration, we deliver tailored technology solutions that
+              drive measurable results and long-term growth.
             </p>
           </div>
           <div className="flex gap-5 mt-4 justify-center lg:justify-start">
@@ -39,7 +39,7 @@ const AboutCompany = () => {
           <img
             src={aboutUsImg}
             className="object-contain max-h-[30rem]"
-            alt="About NovaAIGen"
+            alt="About NeoTranscendAI"
           />
         </div>
       </div>

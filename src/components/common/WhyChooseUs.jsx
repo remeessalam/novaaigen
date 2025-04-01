@@ -69,9 +69,9 @@ const WhyChooseUs = () => {
             Excellence in AI Solutions
           </h2>
           <p data-aos="fade-up" className="desc max-w-[40rem] mx-auto">
-            At NovaAIGen, we combine innovation, expertise, and dedication to
-            deliver transformative solutions that empower businesses to excel in
-            a digital-first world.
+            At NeoTranscendAI, we combine innovation, expertise, and dedication
+            to deliver transformative solutions that empower businesses to excel
+            in a digital-first world.
           </p>
           <div data-aos="fade-up" className="w-full block lg:hidden">
             <img

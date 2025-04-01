@@ -14,21 +14,21 @@ const reviews = [
     profileImg: profileImg1,
     name: "Jagdish Kumar",
     role: "CEO of Improve Business Solutions Pvt Ltd",
-    desc: "“Working with NovaAIGen has been a transformative experience for our business. Their AI-powered solutions streamlined our operations and provided valuable insights. The dedication and innovation of their team exceeded our expectations. We now have a competitive edge, thanks to NovaAIGen's expertise.”",
+    desc: "“Working with NEOTRANSCENDAI LLP has been a transformative experience for our business. Their AI-powered solutions streamlined our operations and provided valuable insights. The dedication and innovation of their team exceeded our expectations. We now have a competitive edge, thanks to NEOTRANSCENDAI LLP's expertise.”",
   },
   {
     id: 2,
     profileImg: profileImg2,
     name: "Rahul Verma",
     role: "CTO of VisionTech Solutions",
-    desc: "“NovaAIGen’s NLP solutions have revolutionized how we analyze customer feedback and automate critical processes. Their advanced language models provided unparalleled insights into user sentiment, while their text automation tools streamlined our operations. The team’s expertise in customizing NLP pipelines for our specific needs ensured measurable improvements in efficiency and customer satisfaction. Any organization looking to harness the power of language data should partner with them.”",
+    desc: "“NEOTRANSCENDAI LLP’s NLP solutions have revolutionized how we analyze customer feedback and automate critical processes. Their advanced language models provided unparalleled insights into user sentiment, while their text automation tools streamlined our operations. The team’s expertise in customizing NLP pipelines for our specific needs ensured measurable improvements in efficiency and customer satisfaction. Any organization looking to harness the power of language data should partner with them.”",
   },
   {
     id: 3,
     profileImg: profileImg3,
     name: "Ananya Sharma",
     role: "Founder of Finovate Capital",
-    desc: "“The AI-driven insights provided by NovaAIGen have completely transformed our decision-making process. Their ability to understand our needs and deliver tailored solutions is truly commendable. Our business performance has improved significantly since we started working with them.”",
+    desc: "“The AI-driven insights provided by NEOTRANSCENDAI LLP have completely transformed our decision-making process. Their ability to understand our needs and deliver tailored solutions is truly commendable. Our business performance has improved significantly since we started working with them.”",
   },
 ];
 

@@ -90,9 +90,9 @@ export {
 export const companyDetails = {
   phone: "+91-9353070218",
   whatsapp: "9353070218",
-  email: "abc@xyz.com",
+  email: "info@novaaigen.com",
   address:
-    "Flat: 204 ,Blue lotus apartment, Kaverappa layout,Panathur , Bangalore, karnataka-560103",
+    "Flat 404, 7 HLR residency, 4th Main, Begur road Hongasandra. Bangalore - 560068",
   twitter: "",
   linkedin: "",
   instagram: "",
@@ -303,9 +303,9 @@ export const allServices = [
   {
     id: 1,
     title: "Website Development: Building Websites That Make an Impact",
-    desc: "Your website is often the first interaction customers have with your brand. It's vital that it not only looks great but functions smoothly. At [Your Company Name], we focus on creating responsive, user-friendly websites that represent your brand and engage your audience.",
+    desc: "Your website is often the first interaction customers have with your brand. It's vital that it not only looks great but functions smoothly. At NeoTranscendAI, we focus on creating responsive, user-friendly websites that represent your brand and engage your audience.",
     detailContent:
-      "Your website is often the first interaction customers have with your brand. It's vital that it not only looks great but functions smoothly. At [Your Company Name], we focus on creating responsive, user-friendly websites that represent your brand and engage your audience.",
+      "Your website is often the first interaction customers have with your brand. It's vital that it not only looks great but functions smoothly. At NeoTranscendAI, we focus on creating responsive, user-friendly websites that represent your brand and engage your audience.",
     whatWeOffer: [
       {
         title: "Tailored Web Design & Development",
@@ -328,9 +328,9 @@ export const allServices = [
   {
     id: 2,
     title: "App Development: Turning Ideas Into Powerful Mobile Experiences",
-    desc: "In a mobile-driven world, having a reliable, engaging app can set your business apart. Our team at [Your Company Name] develops innovative, high-performing mobile applications that deliver a seamless user experience, whether you're targeting iOS or Android users.",
+    desc: "In a mobile-driven world, having a reliable, engaging app can set your business apart. Our team at NeoTranscendAI develops innovative, high-performing mobile applications that deliver a seamless user experience, whether you're targeting iOS or Android users.",
     detailContent:
-      "In a mobile-driven world, having a reliable, engaging app can set your business apart. Our team at [Your Company Name] develops innovative, high-performing mobile applications that deliver a seamless user experience, whether you're targeting iOS or Android users.",
+      "In a mobile-driven world, having a reliable, engaging app can set your business apart. Our team at NeoTranscendAI develops innovative, high-performing mobile applications that deliver a seamless user experience, whether you're targeting iOS or Android users.",
     whatWeOffer: [
       {
         title: "Native & Cross-Platform Apps",
@@ -354,9 +354,9 @@ export const allServices = [
     id: 3,
     title:
       "AI Solutions: Unlocking New Possibilities with Artificial Intelligence",
-    desc: "Artificial Intelligence is transforming industries worldwide, and [Your Company Name] is at the forefront of this change. We specialize in developing AI-powered solutions that enhance decision-making, improve efficiencies, and open up new business opportunities.",
+    desc: "Artificial Intelligence is transforming industries worldwide, and NeoTranscendAI is at the forefront of this change. We specialize in developing AI-powered solutions that enhance decision-making, improve efficiencies, and open up new business opportunities.",
     detailContent:
-      "Artificial Intelligence is transforming industries worldwide, and [Your Company Name] is at the forefront of this change. We specialize in developing AI-powered solutions that enhance decision-making, improve efficiencies, and open up new business opportunities.",
+      "Artificial Intelligence is transforming industries worldwide, and NeoTranscendAI is at the forefront of this change. We specialize in developing AI-powered solutions that enhance decision-making, improve efficiencies, and open up new business opportunities.",
     whatWeOffer: [
       {
         title: "AI System Integration",
@@ -375,9 +375,9 @@ export const allServices = [
   {
     id: 4,
     title: "Chatbots: Revolutionizing Customer Interaction",
-    desc: "Engage with your customers 24/7 using intelligent chatbots that provide quick, personalized responses. At [Your Company Name], we design chatbots that handle everything from simple queries to complex tasks, helping businesses improve customer satisfaction and streamline operations.",
+    desc: "Engage with your customers 24/7 using intelligent chatbots that provide quick, personalized responses. At NeoTranscendAI, we design chatbots that handle everything from simple queries to complex tasks, helping businesses improve customer satisfaction and streamline operations.",
     detailContent:
-      "Engage with your customers 24/7 using intelligent chatbots that provide quick, personalized responses. At [Your Company Name], we design chatbots that handle everything from simple queries to complex tasks, helping businesses improve customer satisfaction and streamline operations.",
+      "Engage with your customers 24/7 using intelligent chatbots that provide quick, personalized responses. At NeoTranscendAI, we design chatbots that handle everything from simple queries to complex tasks, helping businesses improve customer satisfaction and streamline operations.",
     whatWeOffer: [
       {
         title: "Around-the-Clock Support",
@@ -426,9 +426,9 @@ export const allServices = [
     id: 6,
     title:
       "Natural Language Processing (NLP): Understanding and Analyzing Language",
-    desc: "At [Your Company Name], we use Natural Language Processing (NLP) to help businesses harness the power of language. NLP helps automate processes, improve customer engagement, and gain valuable insights from unstructured text data.",
+    desc: "At NeoTranscendAI, we use Natural Language Processing (NLP) to help businesses harness the power of language. NLP helps automate processes, improve customer engagement, and gain valuable insights from unstructured text data.",
     detailContent:
-      "At [Your Company Name], we use Natural Language Processing (NLP) to help businesses harness the power of language. NLP helps automate processes, improve customer engagement, and gain valuable insights from unstructured text data.",
+      "At NeoTranscendAI, we use Natural Language Processing (NLP) to help businesses harness the power of language. NLP helps automate processes, improve customer engagement, and gain valuable insights from unstructured text data.",
     whatWeOffer: [
       {
         title: "Sentiment Analysis",
@@ -452,9 +452,9 @@ export const allServices = [
     id: 7,
     title:
       "UX/UI Design: Creating User-Friendly, Visually Stunning Experiences",
-    desc: "Great user experience (UX) and user interface (UI) design are essential for engaging your audience and keeping them coming back. At [Your Company Name], we design user interfaces that are not only beautiful but also intuitive and easy to navigate.",
+    desc: "Great user experience (UX) and user interface (UI) design are essential for engaging your audience and keeping them coming back. At NeoTranscendAI, we design user interfaces that are not only beautiful but also intuitive and easy to navigate.",
     detailContent:
-      "Great user experience (UX) and user interface (UI) design are essential for engaging your audience and keeping them coming back. At [Your Company Name], we design user interfaces that are not only beautiful but also intuitive and easy to navigate.",
+      "Great user experience (UX) and user interface (UI) design are essential for engaging your audience and keeping them coming back. At NeoTranscendAI, we design user interfaces that are not only beautiful but also intuitive and easy to navigate.",
     whatWeOffer: [
       {
         title: "User-Centered Design",
